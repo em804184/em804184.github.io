@@ -4,4 +4,5 @@ representing the patients heartbeat, the rate of the heartbeat can be changed vi
 
 This Youtube link provides a demonstration for the description: 
 
-https://www.youtube.com/watch?v=ufIRBQ9lz-4 
+<a href="https://www.youtube.com/watch?v=ufIRBQ9lz-4" target="_blank">Watch this video</a>
+
